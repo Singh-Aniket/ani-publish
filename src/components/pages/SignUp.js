@@ -1,0 +1,11 @@
+import React from 'react';
+import '../../App.css';
+
+export default function SignUp() {
+  return (
+  <>
+    <h1 className='sign-up'>Sign Up Page</h1>
+    <p>Conatct Page in process (can be seen in code)</p>
+  </>
+  );
+}
